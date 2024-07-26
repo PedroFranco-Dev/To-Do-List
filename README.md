@@ -1,5 +1,7 @@
 # To do List build in Js
 This is a To Do List project developed in JavaScript, using HTML and CSS. The application allows you to add and remove tasks, and keeps them saved in the browser's Local Storage.
+> Status: Finished ✅
+<img src="https://github.com/user-attachments/assets/51e6f637-36a7-45d1-a214-a017fb3a8367" alt="Ibm Calculator Screenshot" width="500">
 
 ## Technologies Used
 
@@ -12,6 +14,9 @@ This is a To Do List project developed in JavaScript, using HTML and CSS. The ap
 - **Add Tasks**: Add new tasks to the list.
 - **Remove Tasks**: Remove tasks from the list.
 - **Data Persistence**: Tasks are saved in Local Storage, ensuring they remain even after refreshing the page.
+
+<img src="https://github.com/user-attachments/assets/ebd1ef6d-0f21-4db5-a7f4-ddfb1d4603ce" alt="Ibm Calculator Screenshot" width="500">
+  
 
 ## How to Use
 
